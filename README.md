@@ -8,7 +8,7 @@ Contact : [maletyon@proton.me](mailto:maletyon@proton.me)
 
 ## Les cours
 
-### École Nationale Supérieure Polytechnique de l'Université de Yaoundé I
+### <a href="https://polytechnique.cm/"><img src="logos/enspy_logo.png" alt="Logo de l'ENSP de Yaoundé" height="48" align="absmiddle"></a> École Nationale Supérieure Polytechnique de l'Université de Yaoundé I
 
 Département de Génie Informatique, 60 heures par cours (30 séances de 2 heures).
 
@@ -21,7 +21,7 @@ Département de Génie Informatique, 60 heures par cours (30 séances de 2 heure
 | Investigation Numérique Avancée (INA) | SEC4052 | HN4 | [cours-ina](https://github.com/maletyon/cours-ina) | [PDF](https://github.com/maletyon/cours-ina/blob/main/INA_main.pdf) |
 | Hacking Éthique II (HE2) | SEC4062 | HN4 | [cours-he2](https://github.com/maletyon/cours-he2) | [PDF](https://github.com/maletyon/cours-he2/blob/main/HE2_main.pdf) |
 
-### Chaire UNESCO d'Afrique Centrale ACCES-TIC
+### <a href="https://www.unescochaire-tic.org/"><img src="logos/unesco_logo.png" alt="Logo de la Chaire UNESCO ACCES-TIC" height="48" align="absmiddle"></a> Chaire UNESCO d'Afrique Centrale ACCES-TIC
 
 Masters professionnels sous la tutelle académique de l'ENSP de Yaoundé, 30 heures par cours.
 
@@ -31,7 +31,7 @@ Masters professionnels sous la tutelle académique de l'ENSP de Yaoundé, 30 heu
 | Audit et Contrôle Interne des SI (ACSI) | MSN-2S3-MSI05 | Management des Systèmes d'Information | [cours-acsi](https://github.com/maletyon/cours-acsi) | [PDF](https://github.com/maletyon/cours-acsi/blob/main/ACSI_main.pdf) |
 | Normes, Gestion des Risques et Audit de Cybersécurité (NRAC) | MSN-2S3-SEC08 | Sécurité des Systèmes Numériques | [cours-nrac](https://github.com/maletyon/cours-nrac) | [PDF](https://github.com/maletyon/cours-nrac/blob/main/NRAC_main.pdf) |
 
-### Programme Supérieur de Spécialisation en Finances Publiques, Université de Yaoundé II
+### <a href="https://pssfp.org/"><img src="logos/pssfp_logo.png" alt="Logo du PSSFP" height="48" align="absmiddle"></a> Programme Supérieur de Spécialisation en Finances Publiques, Université de Yaoundé II
 
 Master professionnel en finances publiques, spécialité Audit et Contrôle, 8 journées de 4 heures.
 
@@ -39,7 +39,7 @@ Master professionnel en finances publiques, spécialité Audit et Contrôle, 8 j
 |---|---|---|---|---|
 | Contrôle et Audit des Systèmes d'Information (CASI) | CAS3401 | Auditeurs des finances publiques | [cours-casi](https://github.com/maletyon/cours-casi) | [PDF](https://github.com/maletyon/cours-casi/blob/main/CASI_main.pdf) |
 
-### Université de Garoua
+### <a href="https://univ-garoua.cm/faculte-des-sciences"><img src="logos/garoua_logo.png" alt="Logo de l'Université de Garoua" height="48" align="absmiddle"></a> Université de Garoua
 
 Faculté des Sciences, Département de Mathématiques et Informatiques, Master Professionnel en Sécurité des Systèmes Informatiques et des Données, 30 heures par cours.
 
@@ -83,7 +83,7 @@ Les livrets de correction (corrigés des exercices et des fiches) sont réservé
 
 ## NDAP SUKULU, la salle de classe compagnon
 
-*Ndap sukulu* signifie « la salle de classe » en bassa. NDAP SUKULU est l'environnement d'entraînement des cours : fiches d'auto-évaluation corrigées automatiquement et laboratoires sur pièces. La version téléchargeable et installable en local, avec un module autonome par cours, est en cours de finalisation. En attendant, les fiches de chaque chapitre sont fournies au format texte dans le dossier `fiches/` de chaque dépôt.
+*Ndap sukulu* signifie « la salle de classe » en bassa. NDAP SUKULU est l'environnement d'évaluation des cours : une fiche de 20 questions tirées d'une banque de 100 par chapitre, et des laboratoires sur pièces, minutés et en nombre de tentatives limité. Chaque cours a son module autonome, utilisable en ligne, sur ordinateur sans Internet ou sur téléphone, dans le dossier `ndap-sukulu/` de son dépôt. Modules en ligne : [IIN](https://github.com/maletyon/cours-iin/tree/main/ndap-sukulu), [GCI](https://github.com/maletyon/cours-gci/tree/main/ndap-sukulu), [CASI](https://github.com/maletyon/cours-casi/tree/main/ndap-sukulu) ; les autres suivent. Les fiches de chaque chapitre restent fournies au format texte dans le dossier `fiches/` de chaque dépôt.
 
 ## Recherche
 
