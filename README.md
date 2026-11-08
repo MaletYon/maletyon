@@ -63,17 +63,26 @@ Tous les dépôts `cours-<sigle>` ont la même structure :
 cours-<sigle>/
 ├── README.md               description, plan, labs, compilation
 ├── LICENSE.md              CC BY-NC-SA 4.0 (contenu), MIT (code)
+├── .gitignore              exclut corrigés, normes sous licence et fichiers de compilation
 ├── <SIGLE>_main.pdf        le livre compilé
 ├── <SIGLE>_main.tex        le document maître
 ├── Style_<SIGLE>.sty       la feuille de style
 ├── front/                  page de titre, avant-propos, mode d'emploi
-├── partie0/ … partie6/     les chapitres, un fichier par chapitre
+├── partie0/ … partieN/     les chapitres, un fichier par chapitre
 ├── annexes/                glossaire, outils, modèles, textes, contacts
 ├── bibliographie/          références (biber)
 ├── figures/                logos et illustrations
-├── fiches/                 une fiche d'auto-évaluation de 40 questions par chapitre
-├── Présentation/           les présentations PowerPoint, une par séance
+├── fiches/                 une fiche d'auto-évaluation par chapitre (texte brut)
+├── Présentation/           la vision globale du cours, puis une présentation par séance
 │   └── _sources/           le générateur (Python, python-pptx)
+├── ndap-sukulu/            la salle de classe compagnon
+│   ├── index.html          l'édition en ligne (GitHub Pages)
+│   ├── NDAP_SUKULU_<SIGLE>.html           l'édition en un seul fichier
+│   ├── NDAP_SUKULU_<SIGLE>_ordinateur.zip l'édition hors ligne à télécharger
+│   ├── telephone/          l'édition pour téléphone
+│   ├── cours/              le livre en PDF, consultable dans la plateforme
+│   ├── labs/               un dossier par lab : énoncé, pièces, manifeste SHA-256
+│   └── README.md           mode d'emploi de la plateforme
 └── correction/README.md    comment obtenir le livret des corrigés
 ```
 
