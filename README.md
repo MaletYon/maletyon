@@ -93,4 +93,10 @@ La méthode des cours d'audit s'appuie sur le programme de recherche de l'**audi
 
 Contenu pédagogique sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) ; code sous licence MIT. Les normes sous licence (ISO, ISO/IEC, COBIT…) citées dans les cours ne sont jamais fournies. Les logos appartiennent à leurs institutions.
 
+## Déclaration d’utilisation de l’intelligence artificielle
+
+La préparation de ces cours a fait appel à un outil d’intelligence artificielle générative, Opus 5 de Claude (Anthropic), utilisé au moyen de Claude Code en 2025 et 2026. L’outil a servi comme ASSISTANT à la mise en forme LaTeX, à la recherche et à la validation des références, à la standardisation et à l’harmonisation de toutes les diapositives sous un modèle unique, à la validation des questions d’évaluation, et a fourni une aide précieuse dans le développement du code de la plateforme NDAP SUKULU.
+
+La conception des cours, leur plan, le choix des cas, des normes et des textes juridiques cités relèvent de l’auteur. Chaque contenu amélioré avec l’aide de l’outil a été relu, corrigé et validé par l’auteur, qui en assume seul la responsabilité scientifique, pédagogique et juridique.
+
 © MaletYon 2026
