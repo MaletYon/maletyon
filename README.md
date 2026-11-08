@@ -2,7 +2,7 @@
 
 *Malet Yon* signifie « ton enseignant » en bassa. Ce compte publie les cours universitaires de **MINKA MI NGUIDJOÏ Thierry Emmanuel**, enseignant-chercheur (LIMSI, École Nationale Supérieure Polytechnique de l'Université de Yaoundé I), auditeur des systèmes d'information et expert judiciaire.
 
-Chaque cours est un traité complet, rédigé en LaTeX, avec ses présentations et ses fiches d'auto-évaluation par chapitre. Tous sont ancrés à la fois dans les normes internationales (ISO, ISACA, IIA, INTOSAI, NIST) et dans le droit camerounais et africain, avec des cas fictifs situés au Cameroun.
+Chaque cours est un traité complet, rédigé en LaTeX, avec ses présentations et ses fiches d'auto-évaluation par chapitre. Tous sont ancrés à la fois dans les normes internationales (ISO, ISACA, IIA, INTOSAI, NIST, FIRST) et dans le droit camerounais et africain, avec des cas fictifs situés au Cameroun.
 
 Contact : [maletyon@proton.me](mailto:maletyon@proton.me)
 
@@ -54,7 +54,7 @@ Faculté des Sciences, Département de Mathématiques et Informatiques, Master P
 
 - **Audit et contrôle** : [SIF](https://github.com/maletyon/cours-sif), puis [ASI](https://github.com/maletyon/cours-asi), ou leurs versions de master [ACSI](https://github.com/maletyon/cours-acsi) et [CASI](https://github.com/maletyon/cours-casi) ; gouvernance avec [GCI](https://github.com/maletyon/cours-gci) ; normes et risques avec [NRAC](https://github.com/maletyon/cours-nrac) et [ARGC](https://github.com/maletyon/cours-argc).
 - **Investigation numérique** : [IIN](https://github.com/maletyon/cours-iin), puis [INA](https://github.com/maletyon/cours-ina) ; au master, [FORN](https://github.com/maletyon/cours-forn), [SAFI](https://github.com/maletyon/cours-safi) et [FAV](https://github.com/maletyon/cours-fav).
-- **Sécurité offensive et défensive** : [SIF](https://github.com/maletyon/cours-sif), [HE2](https://github.com/maletyon/cours-he2), [SGSI](https://github.com/maletyon/cours-sgsi).
+- **Sécurité offensive et défensive** : [SIF](https://github.com/maletyon/cours-sif), [HE2](https://github.com/maletyon/cours-he2), [SGSI](https://github.com/maletyon/cours-sgsi) ; l'analyse et la gestion des vulnérabilités avec [FAV](https://github.com/maletyon/cours-fav).
 
 ## Architecture d'un dépôt de cours
 
@@ -111,7 +111,7 @@ Pour rejoindre la salle de classe d'un cours, utilisez le bouton « Demander mon
 
 ## Recherche
 
-La méthode des cours d'audit s'appuie sur le programme de recherche de l'**auditologie**, science appliquée de la réduction de l'incertitude dans l'audit des systèmes d'information : [*Vers l'auditologie*](https://hal.science/hal-05701007) (prépublication, HAL) et l'instrument de réponse OUI / NON / NEK ([hal-05701270](https://hal.science/hal-05701270)).
+La méthode des cours d'audit et d'investigation s'appuie sur le programme de recherche de l'**auditologie**, science appliquée de la réduction de l'incertitude dans l'audit des systèmes d'information : [*Vers l'auditologie*](https://hal.science/hal-05701007) (prépublication, HAL) et l'instrument de réponse OUI / NON / NEK ([hal-05701270](https://hal.science/hal-05701270)). Le cours FAV transpose cet instrument à l'enquête numérique : chaque conclusion y est cotée, et l'incertitude d'une enquête se mesure par μ, U et H.
 
 ## Licence
 
