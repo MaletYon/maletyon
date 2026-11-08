@@ -92,7 +92,21 @@ Les livrets de correction (corrigés des exercices et des fiches) sont réservé
 
 ## NDAP SUKULU, la salle de classe compagnon
 
-*Ndap sukulu* signifie « la salle de classe » en bassa. NDAP SUKULU est l'environnement d'évaluation des cours : une fiche de 20 questions tirées d'une banque de 100 par chapitre, et des laboratoires sur pièces, minutés et en nombre de tentatives limité. Chaque cours a son module autonome, utilisable en ligne, sur ordinateur sans Internet ou sur téléphone, dans le dossier `ndap-sukulu/` de son dépôt. Modules en ligne : [IIN](https://github.com/maletyon/cours-iin/tree/main/ndap-sukulu), [GCI](https://github.com/maletyon/cours-gci/tree/main/ndap-sukulu), [CASI](https://github.com/maletyon/cours-casi/tree/main/ndap-sukulu), [ACSI](https://github.com/maletyon/cours-acsi/tree/main/ndap-sukulu), [NRAC](https://github.com/maletyon/cours-nrac/tree/main/ndap-sukulu), [ARGC](https://github.com/maletyon/cours-argc/tree/main/ndap-sukulu), [ASI](https://github.com/maletyon/cours-asi/tree/main/ndap-sukulu), [SIF](https://github.com/maletyon/cours-sif/tree/main/ndap-sukulu), [INA](https://github.com/maletyon/cours-ina/tree/main/ndap-sukulu), [HE2](https://github.com/maletyon/cours-he2/tree/main/ndap-sukulu), [FORN](https://github.com/maletyon/cours-forn/tree/main/ndap-sukulu), [SGSI](https://github.com/maletyon/cours-sgsi/tree/main/ndap-sukulu), [SAFI](https://github.com/maletyon/cours-safi/tree/main/ndap-sukulu) ; les autres suivent. Les fiches de chaque chapitre restent fournies au format texte dans le dossier `fiches/` de chaque dépôt.
+### Le principe
+
+*Ndap sukulu* signifie « la salle de classe » en bassa. NDAP SUKULU est l'environnement d'évaluation des cours : une fiche de 20 questions tirées d'une banque de 100 par chapitre, et des laboratoires sur pièces, minutés et en nombre de tentatives limité. Chaque cours a son module autonome, utilisable en ligne, sur ordinateur sans Internet ou sur téléphone, dans le dossier `ndap-sukulu/` de son dépôt. Modules en ligne : [IIN](https://github.com/maletyon/cours-iin/tree/main/ndap-sukulu), [GCI](https://github.com/maletyon/cours-gci/tree/main/ndap-sukulu), [CASI](https://github.com/maletyon/cours-casi/tree/main/ndap-sukulu), [ACSI](https://github.com/maletyon/cours-acsi/tree/main/ndap-sukulu), [NRAC](https://github.com/maletyon/cours-nrac/tree/main/ndap-sukulu), [ARGC](https://github.com/maletyon/cours-argc/tree/main/ndap-sukulu), [ASI](https://github.com/maletyon/cours-asi/tree/main/ndap-sukulu), [SIF](https://github.com/maletyon/cours-sif/tree/main/ndap-sukulu), [INA](https://github.com/maletyon/cours-ina/tree/main/ndap-sukulu), [HE2](https://github.com/maletyon/cours-he2/tree/main/ndap-sukulu), [FORN](https://github.com/maletyon/cours-forn/tree/main/ndap-sukulu), [SGSI](https://github.com/maletyon/cours-sgsi/tree/main/ndap-sukulu), [SAFI](https://github.com/maletyon/cours-safi/tree/main/ndap-sukulu). Les fiches de chaque chapitre restent fournies au format texte dans le dossier `fiches/` de chaque dépôt.
+
+### Essayer avec le compte de démonstration
+
+Chaque module NDAP SUKULU est protégé par les comptes des étudiants inscrits de l'année. Pour permettre à chacun de l'essayer, un compte de démonstration unique est ouvert dans tous les cours :
+
+| Matricule | Mot de passe | Nom affiché |
+|---|---|---|
+| `ETU001` | `eTU001` | ETUDIANT DEMO |
+
+Ce compte donne accès aux fiches et aux labs de chaque cours, avec des tentatives illimitées. Les essais restent dans le navigateur de la personne qui l'utilise : ils ne sont jamais transmis à l'enseignant et n'entrent dans aucune statistique de la salle de classe. Le compte ne donne accès ni aux corrigés ni à l'espace enseignant.
+
+Pour rejoindre la salle de classe d'un cours, utilisez le bouton « Demander mon inscription » du module : il prépare un courriel à l'adresse maletyon@proton.me, à compléter par votre nom, votre établissement et votre matricule.
 
 ## Recherche
 
