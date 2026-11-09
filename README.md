@@ -51,6 +51,14 @@ Faculté des Sciences, Département de Mathématiques et Informatiques, Master P
 | Forensique Numérique (FORN) | LPI342 | [cours-forn](https://github.com/maletyon/cours-forn) | [PDF](https://github.com/maletyon/cours-forn/blob/main/FORN_main.pdf) |
 | Systèmes de Gestion de la Sécurité Informatique (SGSI) | IS498 | [cours-sgsi](https://github.com/maletyon/cours-sgsi) | [PDF](https://github.com/maletyon/cours-sgsi/blob/main/SGSI_main.pdf) |
 
+### <img src="logos/iai_logo.png" alt="Logo de l'IAI-Cameroun" height="48" align="absmiddle"> Institut Africain d'Informatique, Représentation du Cameroun (IAI-Cameroun)
+
+Formation des OPJ & APJ en investigation numérique et lutte contre la cybercriminalité, 280 heures (40 journées de 7 heures).
+
+| Formation | Sigle | Public | Dépôt | Livre |
+|---|---|---|---|---|
+| Investigation Numérique & Lutte contre la Cybercriminalité | OPJ-APJ | Officiers et agents de police judiciaire | [cours-opj-apj](https://github.com/maletyon/cours-opj-apj) | [PDF](https://github.com/maletyon/cours-opj-apj/blob/main/OPJ-APJ_main.pdf) |
+
 ## Parcours conseillés
 
 - **Audit et contrôle** : [SIF](https://github.com/maletyon/cours-sif), puis [ASI](https://github.com/maletyon/cours-asi), ou leurs versions de master [ACSI](https://github.com/maletyon/cours-acsi) et [CASI](https://github.com/maletyon/cours-casi) ; gouvernance avec [GCI](https://github.com/maletyon/cours-gci) ; normes et risques avec [NRAC](https://github.com/maletyon/cours-nrac) et [ARGC](https://github.com/maletyon/cours-argc) ; protection des données et conformité à la loi n° 2024/017 avec [APDC](https://github.com/maletyon/cours-apdc).
