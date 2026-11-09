@@ -57,7 +57,7 @@ Formation des OPJ & APJ en investigation numérique et lutte contre la cybercrim
 
 | Formation | Sigle | Public | Dépôt | Livre |
 |---|---|---|---|---|
-| Investigation Numérique & Lutte contre la Cybercriminalité | OPJ-APJ | Officiers et agents de police judiciaire | [cours-opj-apj](https://github.com/maletyon/cours-opj-apj) | [PDF](https://github.com/maletyon/cours-opj-apj/blob/main/OPJ-APJ_main.pdf) |
+| Investigation Numérique & Lutte contre la Cybercriminalité | OPJ-APJ | Officiers et agents de police judiciaire | [cours-opj-apj](https://github.com/maletyon/cours-opj-apj) | Accès réservé |
 
 ## Parcours conseillés
 
@@ -108,7 +108,7 @@ Les livrets de correction (corrigés des exercices et des fiches) sont réservé
 
 ### Essayer avec le compte de démonstration
 
-Chaque module NDAP SUKULU est protégé par les comptes des étudiants inscrits de l'année. Pour permettre à chacun de l'essayer, un compte de démonstration unique est ouvert dans tous les cours :
+Chaque module NDAP SUKULU est protégé par les comptes des étudiants inscrits de l'année. Pour permettre à chacun de l'essayer, un compte de démonstration unique est ouvert dans tous les cours, à l'exception de la formation OPJ-APJ, réservée à ses inscrits :
 
 | Matricule | Mot de passe | Nom affiché |
 |---|---|---|
