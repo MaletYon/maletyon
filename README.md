@@ -49,7 +49,7 @@ Faculté des Sciences, Département de Mathématiques et Informatiques, Master P
 |---|---|---|---|
 | Supervision, Analyse Forensique et Gestion des Incidents (SAFI) | SIS589 | [cours-safi](https://github.com/maletyon/cours-safi) | [PDF](https://github.com/maletyon/cours-safi/blob/main/SAFI_main.pdf) |
 | Forensique Numérique (FORN) | LPI342 | [cours-forn](https://github.com/maletyon/cours-forn) | [PDF](https://github.com/maletyon/cours-forn/blob/main/FORN_main.pdf) |
-| Systèmes de Gestion de la Sécurité Informatique (SGSI) | IS498 | [cours-sgsi](https://github.com/maletyon/cours-sgsi) | [PDF](https://github.com/maletyon/cours-sgsi/blob/main/SGSI_main.pdf) |
+| Systèmes de Gestion de la Sécurité Informatique (SGSI) | SIS498 | [cours-sgsi](https://github.com/maletyon/cours-sgsi) | [PDF](https://github.com/maletyon/cours-sgsi/blob/main/SGSI_main.pdf) |
 
 ### <img src="logos/iai_logo.png" alt="Logo de l'IAI-Cameroun" height="48" align="absmiddle"> Institut Africain d'Informatique, Représentation du Cameroun (IAI-Cameroun)
 
