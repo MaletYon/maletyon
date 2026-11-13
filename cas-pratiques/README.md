@@ -1,5 +1,7 @@
 # Mes cas pratiques
 
+[Livre (PDF)](Mes_cas_pratiques.pdf) · [télécharger](https://github.com/maletyon/maletyon/raw/main/cas-pratiques/Mes_cas_pratiques.pdf) · [← Tous les cours de MaletYon](../README.md)
+
 Tous mes cours travaillent sur les mêmes organisations fictives. Une entreprise attaquée dans le cours de sécurité est auditée dans le cours d'audit, reconstruite dans le cours de gestion des risques, testée dans le cours de hacking éthique. L'étudiant qui suit plusieurs cours retrouve donc des lieux, des personnes et des chiffres qu'il connaît déjà.
 
 Ce document présente chaque organisation en entier, puis indique dans quel cours et dans quel chapitre elle apparaît et ce que l'on y apprend.
@@ -28,7 +30,7 @@ Aucune fiche ne donne la solution d'un exercice ou d'un laboratoire.
 | [**SOLITRANS LOGISTIQUE**](organisations/solitrans-logistique.md) | Transitaire et logisticien du port | Le second cas du cours FAV. Il sert à la gestion des vulnérabilités, sans attaque. | FAV |
 | [**MINÉQUIR**](organisations/minequir.md) | Ministère imaginaire de l'Équipement rural, Yaoundé | Un ministère imaginaire où une facture est payée deux fois par l'application de dépense. | CASI |
 | [**CAPNO**](organisations/capno.md) | Caisse publique de prévoyance, Garoua | Une caisse publique dont le fichier de paie contient des agents qui n'existent pas. | CASI |
-| [**Recette des finances de Bafoussam**](organisations/recette-bafoussam.md) | Service public (dossier fictif), Bafoussam | Un petit service de trois agents qui reçoit une application de dématérialisation sans que personne n'ait vérifié les sauvegardes. | SNSD, CASI |
+| [**Recette des finances de Bafoussam**](organisations/recette-bafoussam.md) | Service public (dossier fictif), Bafoussam | Un petit service de trois agents qui reçoit une application de dématérialisation sans que personne n'ait vérifié les sauvegardes. | CASI |
 | [**Mairie d'Eséka**](organisations/mairie-eseka.md) | Commune (dossier fictif), Eséka, Nyong-et-Kéllé | Une mairie qui, après un incident, bâtit un système de management de la sécurité de l'information et le conduit jusqu'à la certification. | SGSI |
 
 ## Les cabinets et les experts
@@ -61,7 +63,7 @@ Le chiffre est le nombre de chapitres du cours où l'organisation apparaît.
 | SOLITRANS LOGISTIQUE |  |  |  |  |  |  |  |  |  | 8 |  |  |  |  |  |  |
 | MINÉQUIR |  |  |  |  |  |  |  |  |  |  |  |  | 13 |  |  |  |
 | CAPNO |  |  |  |  |  |  |  |  |  |  |  |  | 10 |  |  |  |
-| Recette des finances de Bafoussam |  |  |  |  |  |  |  |  | 5 |  |  |  | 8 |  |  |  |
+| Recette des finances de Bafoussam |  |  |  |  |  |  |  |  |  |  |  |  | 8 |  |  |  |
 | Mairie d'Eséka |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 21 |
 | AUDIX CONSEIL | 1 | 26 | 1 |  |  |  |  | 20 | 2 |  | 5 |  |  |  |  |  |
 | NYONG SÉCURITÉ |  |  |  |  |  | 8 |  |  |  |  |  |  |  | 6 | 5 |  |
@@ -80,7 +82,7 @@ Le chiffre est le nombre de chapitres du cours où l'organisation apparaît.
 | [HE2](https://github.com/maletyon/cours-he2) · Hacking éthique II | SEC4062 | LiZbiZ | BANQUE SANAGA, ANPP, NYONG SÉCURITÉ |
 | [GCI](https://github.com/maletyon/cours-gci) · IT governance, COBIT et ITIL | MSN-2S3-MSI03 | BANQUE SANAGA | KRIBILOG SA, ANPP, NOUN PAY |
 | [ACSI](https://github.com/maletyon/cours-acsi) · Audit et contrôle interne des SI | MSN-2S3-MSI05 | LiZbiZ | BANQUE SANAGA, ANPP, AUDIX CONSEIL |
-| [SNSD](https://github.com/maletyon/cours-snsd) · Stratégie numérique et schéma directeur SI | MSN-2S4-MSI01 | ANPP | LiZbiZ, BANQUE SANAGA, Recette des finances de Bafoussam, AUDIX CONSEIL |
+| [SNSD](https://github.com/maletyon/cours-snsd) · Stratégie numérique et schéma directeur SI | MSN-2S4-MSI01 | ANPP | LiZbiZ, BANQUE SANAGA, AUDIX CONSEIL |
 | [FAV](https://github.com/maletyon/cours-fav) · Forensics et analyse de vulnérabilités | MSN-2S3-SEC07 | NYANGA CRÉDIT | SOLITRANS LOGISTIQUE, SANKOFA EXPERTISE |
 | [NRAC](https://github.com/maletyon/cours-nrac) · Normes, gestion des risques et audit de cybersécurité | MSN-2S3-SEC08 | BANQUE SANAGA | LiZbiZ, ANPP, AUDIX CONSEIL |
 | [APDC](https://github.com/maletyon/cours-apdc) · Audit de protection des données et conformité | MSN-2S4-SEC02 | NYANGA CRÉDIT | NOUN PAY, CENTRE MÉDICAL MBOLO, KORO AUDIT & CONFORMITÉ |
@@ -111,12 +113,9 @@ Dans les livres, chaque épisode d'un cas porte un nom d'opération, souvent cel
 | SOLITRANS | SOLITRANS LOGISTIQUE | La gestion des vulnérabilités | FAV |
 | NYONG, KELLÉ, MAKAK, MATOMB | Mairie d'Eséka | Les quatre phases du système de management | SGSI |
 
-## Homonymes à connaître
+## Un nom, une seule chose
 
-- **WOURI** désigne la continuité de la BANQUE SANAGA dans les cours ARGC, SIF et SNSD. Dans les cours IIN et INA, c'est une affaire de fraude au faux fournisseur.
-- **SANAGA** désigne la banque partout, sauf dans un cas intégrateur du cours INA, où c'est le nom d'une opération sans rapport avec elle.
-- **e-RECETTES** est l'application de la recette des finances de Bafoussam dans le cours CASI. Le cours SNSD donne ce nom à un projet de l'ANPP.
-- Plusieurs personnes portent le même nom de famille sans être la même personne : KAMGA, MBARGA, ATANGANA, NDONGO, BELLO. La fiche de chaque organisation donne les siens.
+Chaque nom d'organisation, d'opération et de projet ne désigne qu'une seule chose dans tout le cursus. Quelques noms de famille courants sont encore portés par des personnes différentes : KAMGA, MBARGA, ATANGANA, NDONGO, BELLO. La fiche de chaque organisation donne les siens.
 
 ---
 

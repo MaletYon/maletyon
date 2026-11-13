@@ -18,21 +18,7 @@ Un petit service de trois agents qui reçoit une application de dématérialisat
 
 ## Où la retrouver et pour apprendre quoi
 
-Recette des finances de Bafoussam apparaît dans 2 cours et 13 chapitres. La colonne « Mentions » compte les occurrences du nom dans le chapitre : elle indique si le cas y est central ou seulement cité.
-
-### SNSD · Stratégie numérique et schéma directeur SI
-
-*MSN-2S4-MSI01, Chaire UNESCO. Dépôt [SNSD](https://github.com/maletyon/cours-snsd).*
-
-**Contexte.** Le nom e-RECETTES y désigne un projet de l'ANPP mené hors schéma directeur. Voir la note sur les homonymes.
-
-| Chapitre | Titre | Mentions | Question posée au cas |
-|---|---|---|---|
-| Prologue | Le schéma directeur dort dans un tiroir | 2 |  |
-| Chap. 2 | Les théories de la stratégie | 1 |  |
-| Chap. 3 | L'alignement et la valeur | 2 |  |
-| Chap. 8 | Cadrer et gouverner la démarche | 1 |  |
-| Chap. 14 | Risques, sécurité, continuité, conformité | 1 |  |
+Recette des finances de Bafoussam apparaît dans 1 cours et 8 chapitres. La colonne « Mentions » compte les occurrences du nom dans le chapitre : elle indique si le cas y est central ou seulement cité.
 
 ### CASI · Contrôle et audit des systèmes d'information
 

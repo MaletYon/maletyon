@@ -52,13 +52,13 @@ open(OUT+'/prestataires.md','w',encoding='utf-8').write('\n'.join(L)+'\n')
 # affaires
 L=["# Les affaires d'investigation numérique\n","Les cours IIN et INA ne suivent pas une seule organisation. Ils travaillent sur des affaires, chacune choisie pour une technique ou une question de droit. Les personnes et les sociétés citées sont fictives. Les schémas d'infraction sont réels.\n","| Affaire | Organisation ou victime | Ce que l'affaire enseigne | Cours (chapitres) |\n|---|---|---|---|"]
 for nom,pat,org,res in AFFAIRES: L.append(f"| **{nom}** | {org} | {res} | {ou(pat)} |")
-L.append("\nLe cours INA contient aussi un cas de rançongiciel à l'hôpital des Sept Collines, établissement fictif de Yaoundé. Il porte le nom d'« opération SANAGA » et il est sans rapport avec la BANQUE SANAGA.\n")
+L.append("\nLe cours INA contient aussi un cas de rançongiciel à l'hôpital des Sept Collines, établissement fictif de Yaoundé. Il porte le nom d'« opération NTEM ».\n")
 L.append("La formation OPJ-APJ, en accès réservé, reprend les affaires MBONGO, ONAMBELE, BAOBAB et MOABI. Ses dossiers propres ne sont pas décrits ici.\n")
 L.append("---\n\n[← Mes cas pratiques](README.md)")
 open(OUT+'/affaires-investigation.md','w',encoding='utf-8').write('\n'.join(L)+'\n')
 # index
 TOUS=ORGS+CABINETS
-L=["# Mes cas pratiques\n",
+L=["# Mes cas pratiques\n","[Livre (PDF)](Mes_cas_pratiques.pdf) · [télécharger](https://github.com/maletyon/maletyon/raw/main/cas-pratiques/Mes_cas_pratiques.pdf) · [← Tous les cours de MaletYon](../README.md)\n",
 "Tous mes cours travaillent sur les mêmes organisations fictives. Une entreprise attaquée dans le cours de sécurité est auditée dans le cours d'audit, reconstruite dans le cours de gestion des risques, testée dans le cours de hacking éthique. L'étudiant qui suit plusieurs cours retrouve donc des lieux, des personnes et des chiffres qu'il connaît déjà.\n",
 "Ce document présente chaque organisation en entier, puis indique dans quel cours et dans quel chapitre elle apparaît et ce que l'on y apprend.\n",
 "> **Tout est fictif.** Les organisations, les personnes, les faits, les dates et les montants de ces cas ont été inventés à des fins pédagogiques. Ils s'inspirent de situations que l'on rencontre réellement dans le métier, mais toute ressemblance avec des personnes, des faits ou des entreprises réels serait purement fortuite.\n",
@@ -83,11 +83,8 @@ for s in ORDRE:
     L.append(f"| {lien(s)} · {COURS[s][0]} | {COURS[s][1]} | {', '.join(fil)} | {', '.join(aut+cab)} |")
 L+=["\n## Les opérations\n","Dans les livres, chaque épisode d'un cas porte un nom d'opération, souvent celui d'un cours d'eau ou d'une ville. Ce tableau les rattache à leur organisation.\n","| Opération | Organisation | Objet | Cours |\n|---|---|---|---|"]
 for a,b,c,d in OPERATIONS: L.append(f"| {a} | {b} | {c} | {d} |")
-L+=["\n## Homonymes à connaître\n",
-"- **WOURI** désigne la continuité de la BANQUE SANAGA dans les cours ARGC, SIF et SNSD. Dans les cours IIN et INA, c'est une affaire de fraude au faux fournisseur.",
-"- **SANAGA** désigne la banque partout, sauf dans un cas intégrateur du cours INA, où c'est le nom d'une opération sans rapport avec elle.",
-"- **e-RECETTES** est l'application de la recette des finances de Bafoussam dans le cours CASI. Le cours SNSD donne ce nom à un projet de l'ANPP.",
-"- Plusieurs personnes portent le même nom de famille sans être la même personne : KAMGA, MBARGA, ATANGANA, NDONGO, BELLO. La fiche de chaque organisation donne les siens.\n",
+L+=["\n## Un nom, une seule chose\n",
+"Chaque nom d'organisation, d'opération et de projet ne désigne qu'une seule chose dans tout le cursus. Quelques noms de famille courants sont encore portés par des personnes différentes : KAMGA, MBARGA, ATANGANA, NDONGO, BELLO. La fiche de chaque organisation donne les siens.\n",
 "---\n","[← Tous les cours de MaletYon](../README.md)"]
 open(OUT+'/README.md','w',encoding='utf-8').write('\n'.join(L)+'\n')
 print('pages',len(TOUS)+3)

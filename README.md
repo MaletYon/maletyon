@@ -6,18 +6,15 @@ Chaque cours est un traité complet, rédigé en LaTeX, avec ses présentations 
 
 Contact : [maletyon@proton.me](mailto:maletyon@proton.me)
 
-## Mes cas pratiques
+## <img src="logos/maletyon_logo.jpeg" alt="Logo MaletYon" height="40" align="absmiddle"> Mes cas pratiques
 
-Tous les cours travaillent sur les mêmes organisations fictives : LiZbiZ, la BANQUE SANAGA, l'ANPP, NYANGA CRÉDIT, NOUN PAY, le CENTRE MÉDICAL MBOLO, KRIBILOG et quelques autres. Une entreprise attaquée dans le cours de sécurité est auditée dans le cours d'audit, reconstruite dans le cours de gestion des risques, puis testée dans le cours de hacking éthique.
+Tous les cours travaillent sur les mêmes organisations fictives : LiZbiZ, la BANQUE SANAGA, l'ANPP, NYANGA CRÉDIT, NOUN PAY, le CENTRE MÉDICAL MBOLO, KRIBILOG et quelques autres. Une entreprise attaquée dans le cours de sécurité est auditée dans le cours d'audit, reconstruite dans le cours de gestion des risques, puis testée dans le cours de hacking éthique. Ce recueil présente chacune en détail : fiche d'identité, personnes, chronologie, puis les cours et les chapitres où elle apparaît, avec ce que le cas y enseigne.
 
-Le document [**Mes cas pratiques**](cas-pratiques/README.md) présente chacune en détail : fiche d'identité, personnes, chronologie, puis les cours et les chapitres où elle apparaît, avec ce que le cas y enseigne.
+Tout y est fictif et conçu à des fins pédagogiques. Toute ressemblance avec des personnes, des faits ou des entreprises réels serait purement fortuite.
 
-| Pour trouver | Page |
-|---|---|
-| Une organisation et son histoire | [Les organisations et les cabinets](cas-pratiques/README.md#les-organisations) |
-| Les cas d'un cours donné | [Par cours](cas-pratiques/README.md#par-cours) |
-| Un prestataire, un client, un partenaire | [Prestataires, clients et partenaires](cas-pratiques/prestataires.md) |
-| Une affaire des cours d'investigation | [Les affaires d'investigation numérique](cas-pratiques/affaires-investigation.md) |
+| Recueil | Contenu | Cours couverts | Dossier | Livre |
+|---|---|---|---|---|
+| Mes cas pratiques | 12 organisations, 4 cabinets, 15 prestataires et partenaires, 11 affaires d'investigation | Les 16 cours | [cas-pratiques](https://github.com/maletyon/maletyon/tree/main/cas-pratiques) | [PDF](https://github.com/maletyon/maletyon/blob/main/cas-pratiques/Mes_cas_pratiques.pdf) · [télécharger](https://github.com/maletyon/maletyon/raw/main/cas-pratiques/Mes_cas_pratiques.pdf) |
 
 ## Les cours
 
