@@ -16,7 +16,7 @@ Les cours IIN et INA ne suivent pas une seule organisation. Ils travaillent sur 
 | **Opération MUNGO** | Un candidat à des élections locales | Campagne de désinformation par faux comptes et hypertrucages audio, en avril 2026. Cas intégrateur. | INA (21, 23) |
 | **Opération DIBAMBA** | 234 clients d'un service de paiement mobile | Transactions anormales en vingt minutes, en mai 2026. Cas d'examen. | INA (21, 27) |
 
-Le cours INA contient aussi un cas de rançongiciel dans un hôpital, appelé « opération SANAGA ». Il est sans rapport avec la BANQUE SANAGA.
+Le cours INA contient aussi un cas de rançongiciel à l'hôpital des Sept Collines, établissement fictif de Yaoundé. Il porte le nom d'« opération SANAGA » et il est sans rapport avec la BANQUE SANAGA.
 
 La formation OPJ-APJ, en accès réservé, reprend les affaires MBONGO, ONAMBELE, BAOBAB et MOABI. Ses dossiers propres ne sont pas décrits ici.
 

@@ -4,7 +4,9 @@ Tous mes cours travaillent sur les mêmes organisations fictives. Une entreprise
 
 Ce document présente chaque organisation en entier, puis indique dans quel cours et dans quel chapitre elle apparaît et ce que l'on y apprend.
 
-> Les organisations, les personnes, les dates et les montants sont fictifs. Les normes, les méthodes et les textes de loi cités dans les cours sont exacts. Les institutions réelles (ANTIC, COBAC, Chambre des comptes, Contrôle Supérieur de l'État) y gardent leur rôle légal.
+> **Tout est fictif.** Les organisations, les personnes, les faits, les dates et les montants de ces cas ont été inventés à des fins pédagogiques. Ils s'inspirent de situations que l'on rencontre réellement dans le métier, mais toute ressemblance avec des personnes, des faits ou des entreprises réels serait purement fortuite.
+
+> Les normes, les méthodes et les textes de loi cités dans les cours sont exacts. Les institutions réelles (ANTIC, COBAC, Chambre des comptes, Contrôle Supérieur de l'État) n'y apparaissent que dans leur rôle légal.
 
 ## Comment lire une fiche
 
@@ -93,9 +95,9 @@ Dans les livres, chaque épisode d'un cas porte un nom d'opération, souvent cel
 
 | Opération | Organisation | Objet | Cours |
 |---|---|---|---|
-| GAROUA | LiZbiZ | Le rançongiciel de la nuit du 5 au 6 mars 2026 | SIF, ARGC, HE2 |
+| GAROUA | LiZbiZ | Le rançongiciel de la nuit du 5 au 6 mars 2026 | SIF, ARGC, SAFI, HE2 |
 | LIZBIZ | LiZbiZ | Les missions d'audit, puis le programme de gestion des risques | ASI, ACSI, ARGC, SIF |
-| LOGONE | LiZbiZ | Le test d'intrusion d'octobre 2026 (HE2). Le cours SAFI donne ce nom à la journée du 6 mars | HE2, SAFI |
+| LOGONE | LiZbiZ | Le test d'intrusion d'octobre 2026 | HE2 |
 | BÉNOUÉ, FARO, MAYO | LiZbiZ | Les trois temps du cours : supervision, analyse forensique, réponse | SAFI |
 | TSANAGA | LiZbiZ | L'enquête sur le fichier des clients | FORN |
 | MOUNGO | LiZbiZ | L'inondation de l'entrepôt de Bonabéri | ARGC |
@@ -113,9 +115,8 @@ Dans les livres, chaque épisode d'un cas porte un nom d'opération, souvent cel
 
 - **WOURI** désigne la continuité de la BANQUE SANAGA dans les cours ARGC, SIF et SNSD. Dans les cours IIN et INA, c'est une affaire de fraude au faux fournisseur.
 - **SANAGA** désigne la banque partout, sauf dans un cas intégrateur du cours INA, où c'est le nom d'une opération sans rapport avec elle.
-- **LOGONE** désigne le test d'intrusion d'octobre 2026 dans le cours HE2. Le cours SAFI donne ce nom à la journée du 6 mars 2026.
 - **e-RECETTES** est l'application de la recette des finances de Bafoussam dans le cours CASI. Le cours SNSD donne ce nom à un projet de l'ANPP.
-- Plusieurs personnes portent le même nom de famille sans être la même personne : KAMGA, MBARGA, NKENG, ATANGANA, NDONGO, BELLO. La fiche de chaque organisation donne les siens.
+- Plusieurs personnes portent le même nom de famille sans être la même personne : KAMGA, MBARGA, ATANGANA, NDONGO, BELLO. La fiche de chaque organisation donne les siens.
 
 ---
 

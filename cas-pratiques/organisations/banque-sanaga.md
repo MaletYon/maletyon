@@ -20,6 +20,7 @@ Une banque de trente-huit agences sous le regard de la COBAC. Elle rate une basc
 | Nom | Rôle |
 |---|---|
 | Mme EKAMBI | Directrice de l'audit interne |
+| Mme EWANE | Responsable du contrôle de second niveau |
 | Mme ABENA | Responsable de la sécurité des systèmes d'information, rattachée au directeur des risques |
 
 ## Ce qui lui arrive

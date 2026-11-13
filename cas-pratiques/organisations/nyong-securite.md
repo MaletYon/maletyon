@@ -15,6 +15,7 @@ Le cabinet technique du cursus. Il assiste LiZbiZ pendant l'incident, expertise 
 | Nom | Rôle |
 |---|---|
 | M. BIKORO | Analyste forensique et chef de mission |
+| Mme DJUIDJE | Analyste de supervision et analyste forensique |
 | Mme NGO MBOCK | Testeuse d'intrusion |
 | M. TAMO | Analyste |
 

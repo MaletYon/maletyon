@@ -13,7 +13,7 @@ Le cas le plus utilisé du cursus. Une entreprise de logistique dont on audite l
 | **Implantation** | Douze agences régionales, environ 150 salariés |
 | **Chiffre d'affaires** | Environ 24 milliards de FCFA par an, soit quelque 80 millions par jour ouvré |
 | **Informatique** | Quatre centres de données (Douala, Yaoundé, Garoua, Bafoussam), une application intégrée (stocks, expéditions, facturation, paiements), messagerie en nuage |
-| **Prestataire** | SAHEL INFOGÉRANCE exploite une partie des centres de données avec un accès distant |
+| **Prestataire** | SAHEL INFOGÉRANCE exploite depuis septembre 2025 les centres de données de Garoua et de Douala, avec un accès distant |
 | **Premier client** | PHARMACAM, distributeur de médicaments |
 | **Commissaire aux comptes** | NDONGO & ASSOCIÉS |
 
@@ -35,7 +35,7 @@ Le cas le plus utilisé du cursus. Une entreprise de logistique dont on audite l
 ## Ce qui lui arrive
 
 - **Les stocks et les deux missions d'audit.** Un écart de stock de 186 millions de FCFA, des comptes d'agents partis encore actifs et une réserve du commissaire aux comptes. Une première mission d'audit échoue : quarante-cinq questions posées, aucune réponse défendable. En mai 2026, le comité de direction confie une seconde mission au cabinet AUDIX CONSEIL. Elle établit deux fraudes, dont celle du fournisseur fictif TRANSLOG SERVICES.
-- **Nuit du 5 au 6 mars 2026, le rançongiciel (opération GAROUA).** Un technicien du prestataire a livré son mot de passe à une fausse page le 19 février. L'attaquant entre par la passerelle d'accès distant de Garoua, sans second facteur, puis chiffre les serveurs. La rançon demandée est de 85 000 dollars. M. ETEME décide le 8 mars de ne pas payer. La facturation reprend le 16 mars. Le 19 mars, un échantillon de données clients est publié.
+- **Nuit du 5 au 6 mars 2026, le rançongiciel (opération GAROUA).** Un technicien du prestataire a livré son mot de passe à une fausse page le 19 février. L'attaquant entre par la passerelle d'accès distant de Garoua, sans second facteur, puis chiffre les serveurs. La rançon demandée est de 85 000 dollars. M. ETEME décide le 8 mars de ne pas payer. La facturation reprend le 16 mars. Le 19 mars, un échantillon de données clients est publié. La première reconstitution part de la connexion du 2 mars. L'analyse forensique, que suit le cours SAFI, trouve ensuite des traces dès le 24 février.
 - **Printemps 2026, la reconstruction (opération LIZBIZ).** Le conseil décide de recruter un responsable de la sécurité, de créer un comité de sécurité, d'adopter des politiques et de renégocier le contrat du prestataire. Une gestionnaire des risques est recrutée, un registre des risques est tenu, un audit est conduit selon l'ISO 19011.
 - **Avril 2026, l'enquête (opération TSANAGA).** L'entreprise découvre qu'un ancien employé de Garoua aurait copié puis revendu le fichier des clients. Le 20 avril, sur réquisition du parquet, un ordinateur portable et une clé USB sont saisis et confiés sous scellé au cabinet NYONG SÉCURITÉ.
 - **Octobre 2026, le test d'intrusion (opération LOGONE).** Le 12 octobre, M. ETEME signe la lettre qui autorise NYONG SÉCURITÉ à attaquer le système pour vérifier que les mesures prises depuis mars tiennent.
@@ -290,8 +290,8 @@ LiZbiZ apparaît dans 9 cours et 202 chapitres. La colonne « Mentions » compte
 
 | Chapitre | Titre | Mentions | Question posée au cas |
 |---|---|---|---|
-| Prologue | la découverte | 9 |  |
-| Chap. 1 | Pourquoi superviser | 3 |  |
+| Prologue | la découverte | 10 |  |
+| Chap. 1 | Pourquoi superviser | 4 |  |
 | Chap. 2 | L'architecture d'un SOC | 6 | « De quelle équipe LiZbiZ a-t-elle besoin pour voir venir la prochaine attaque ? » |
 | Chap. 3 | Gouvernance et indicateurs de la supervision | 3 | « Comment savoir si la supervision de LiZbiZ s'améliore vraiment ? » |
 | Chap. 4 | Les journaux | 2 | « Parmi tous les journaux de LiZbiZ, lesquels auraient révélé l'intrusion ? » |
@@ -299,15 +299,15 @@ LiZbiZ apparaît dans 9 cours et 202 chapitres. La colonne « Mentions » compte
 | Chap. 6 | La détection d'intrusion (IDS/IPS) | 3 |  |
 | Chap. 7 | Écrire et éprouver une règle de détection | 1 |  |
 | Chap. 8 | Normes de la gestion d'incident et de la preuve | 3 | « Quelles normes encadrent ce que LiZbiZ doit faire, du constat à la preuve ? » |
-| Chap. 9 | Le cadre juridique | 11 | « Qu'est-ce que la loi impose à LiZbiZ le 6 mars au matin ? » |
+| Chap. 9 | Le cadre juridique | 12 | « Qu'est-ce que la loi impose à LiZbiZ le 6 mars au matin ? » |
 | Chap. 10 | L'admissibilité de la preuve numérique | 3 | « La preuve recueillie chez LiZbiZ tiendrait-elle devant un tiers ? » |
 | Chap. 11 | Fondements du forensique et chaîne de custody | 1 |  |
 | Chap. 13 | Forensique mémoire | 1 |  |
 | Chap. 15 | Le cycle de réponse à incident | 3 |  |
 | Chap. 16 | Le CSIRT et le CERT | 8 | « Qui décide, qui agit, qui parle pendant l'incident de LiZbiZ ? » |
-| Chap. 17 | Le renseignement sur la menace | 3 | « L'attaque de LiZbiZ ressemble-t-elle à d'autres, et qu'en déduire ? » |
+| Chap. 17 | Le renseignement sur la menace | 5 | « L'attaque de LiZbiZ ressemble-t-elle à d'autres, et qu'en déduire ? » |
 | Chap. 18 | Confinement, éradication, rétablissement | 7 | « Comment remettre LiZbiZ en marche sans rouvrir la porte ? » |
-| Chap. 19 | Retour d'expérience et amélioration continue | 4 | « Qu'a appris LiZbiZ, et comment éviter que cela se reproduise ? » |
+| Chap. 19 | Retour d'expérience et amélioration continue | 5 | « Qu'a appris LiZbiZ, et comment éviter que cela se reproduise ? » |
 | Chap. 20 | Mesurer la supervision et la réponse | 5 | « LiZbiZ est-elle « prête » pour le prochain incident ? » |
 
 ### FORN · Forensique numérique

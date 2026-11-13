@@ -8,7 +8,8 @@ Une agence publique de paiement. On y audite les paiements et la conformité, on
 
 | | |
 |---|---|
-| **Activité** | Agence publique de paiement, placée sous une tutelle ministérielle |
+| **Nom complet** | Agence nationale de paiement des prestations publiques |
+| **Activité** | Paiement dématérialisé des salaires, des fournisseurs et des prestations de l'État, sous une tutelle ministérielle |
 | **Siège** | Yaoundé |
 | **Contrôle** | Auditée par la Chambre des comptes dans les cours d'audit |
 | **Informatique** | Une plateforme de paiement, un portail ouvert aux bénéficiaires, une interface de programmation |
@@ -25,7 +26,7 @@ Une agence publique de paiement. On y audite les paiements et la conformité, on
 - **La gouvernance (opération MEFOU).** Le conseil d'administration se réunit deux fois par an et consacre vingt minutes au numérique. Aucun comité ne suit le schéma directeur. Les projets sont lancés sur décision du directeur général.
 - **L'audit des paiements.** La Chambre des comptes examine les paiements, dont les comptes d'agents partis restés actifs, puis soumet son rapport provisoire à la contradiction.
 - **Le portail et l'interface.** L'agence ouvre un portail où chaque bénéficiaire consulte ses paiements, puis le fait tester.
-- **Le schéma directeur.** Le cours GCI suit le schéma directeur adopté en 2023 (neuf projets, 14 milliards de FCFA). Le cours SNSD suit la mission conduite par AUDIX CONSEIL de janvier à juin 2025, après l'échec du schéma précédent, puis la première revue de juin 2026.
+- **Deux schémas directeurs, dont le second met à jour le premier.** Le schéma directeur 2019-2023 annonçait vingt-trois projets. En 2023, l'agence en adopte une révision resserrée sur neuf projets pour 14 milliards de FCFA. Aucun comité ne la suit. C'est cette version que le cours GCI étudie et que le cours ACSI audite sous l'angle des projets. En janvier 2025, le conseil commande au cabinet AUDIX CONSEIL un nouveau schéma directeur pour 2025-2029. Il met à jour celui de 2023 à partir d'un diagnostic complet, avec un portefeuille chiffré et financé. C'est cette version que le cours SNSD construit pas à pas, jusqu'à la première revue de juin 2026. Les deux versions ne se contredisent donc pas. Elles couvrent deux périodes et montrent le même problème avant et après qu'il soit traité.
 
 ## Où la retrouver et pour apprendre quoi
 

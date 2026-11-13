@@ -13,7 +13,7 @@ dict(cle='audix-conseil',nom='AUDIX CONSEIL',pat=r"AUDIX",nature="Cabinet d'audi
 dict(cle='nyong-securite',nom='NYONG SÉCURITÉ',pat=r"NYONG S[ÉE]CURIT[ÉE]",nature="Cabinet de sécurité, de réponse à incident et d'expertise",lieu="",
  resume="Le cabinet technique du cursus. Il assiste LiZbiZ pendant l'incident, expertise les supports saisis et conduit le test d'intrusion.",
  fiche=[("Métier","Supervision, analyse forensique, réponse à incident, tests d'intrusion, expertise judiciaire")],
- personnes=[("M. BIKORO","Analyste forensique et chef de mission"),("Mme NGO MBOCK","Testeuse d'intrusion"),("M. TAMO","Analyste")],
+ personnes=[("M. BIKORO","Analyste forensique et chef de mission"),("Mme DJUIDJE","Analyste de supervision et analyste forensique"),("Mme NGO MBOCK","Testeuse d'intrusion"),("M. TAMO","Analyste")],
  histoire=["**Mars 2026.** Le cabinet assiste LiZbiZ dans la réponse au rançongiciel.","**Avril 2026.** Il est désigné comme expert dans l'opération TSANAGA.","**Octobre 2026.** Il conduit le test d'intrusion autorisé, l'opération LOGONE."],
  cours={'SAFI':"L'équipe de supervision et de réponse que le cours suit aux côtés de LiZbiZ.",'FORN':"L'expert désigné par le parquet : chaîne de possession, duplication, analyse, rapport.",'HE2':"L'équipe de test : règles d'engagement, exploitation, rapport, contre-test."}),
 dict(cle='koro-audit',nom='KORO AUDIT & CONFORMITÉ',pat=r"KORO AUDIT",nature="Cabinet d'audit de conformité",lieu="Yaoundé",
@@ -59,9 +59,9 @@ AFFAIRES=[ # (nom, pat, organisation ou victime, résumé)
  ("Opération DIBAMBA",r"DIBAMBA","234 clients d'un service de paiement mobile","Transactions anormales en vingt minutes, en mai 2026. Cas d'examen."),
 ]
 OPERATIONS=[ # (nom, organisation, objet, cours)
- ("GAROUA","LiZbiZ","Le rançongiciel de la nuit du 5 au 6 mars 2026","SIF, ARGC, HE2"),
+ ("GAROUA","LiZbiZ","Le rançongiciel de la nuit du 5 au 6 mars 2026","SIF, ARGC, SAFI, HE2"),
  ("LIZBIZ","LiZbiZ","Les missions d'audit, puis le programme de gestion des risques","ASI, ACSI, ARGC, SIF"),
- ("LOGONE","LiZbiZ","Le test d'intrusion d'octobre 2026 (HE2). Le cours SAFI donne ce nom à la journée du 6 mars","HE2, SAFI"),
+ ("LOGONE","LiZbiZ","Le test d'intrusion d'octobre 2026","HE2"),
  ("BÉNOUÉ, FARO, MAYO","LiZbiZ","Les trois temps du cours : supervision, analyse forensique, réponse","SAFI"),
  ("TSANAGA","LiZbiZ","L'enquête sur le fichier des clients","FORN"),
  ("MOUNGO","LiZbiZ","L'inondation de l'entrepôt de Bonabéri","ARGC"),
