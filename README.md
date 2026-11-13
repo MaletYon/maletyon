@@ -6,6 +6,19 @@ Chaque cours est un traité complet, rédigé en LaTeX, avec ses présentations 
 
 Contact : [maletyon@proton.me](mailto:maletyon@proton.me)
 
+## Mes cas pratiques
+
+Tous les cours travaillent sur les mêmes organisations fictives : LiZbiZ, la BANQUE SANAGA, l'ANPP, NYANGA CRÉDIT, NOUN PAY, le CENTRE MÉDICAL MBOLO, KRIBILOG et quelques autres. Une entreprise attaquée dans le cours de sécurité est auditée dans le cours d'audit, reconstruite dans le cours de gestion des risques, puis testée dans le cours de hacking éthique.
+
+Le document [**Mes cas pratiques**](cas-pratiques/README.md) présente chacune en détail : fiche d'identité, personnes, chronologie, puis les cours et les chapitres où elle apparaît, avec ce que le cas y enseigne.
+
+| Pour trouver | Page |
+|---|---|
+| Une organisation et son histoire | [Les organisations et les cabinets](cas-pratiques/README.md#les-organisations) |
+| Les cas d'un cours donné | [Par cours](cas-pratiques/README.md#par-cours) |
+| Un prestataire, un client, un partenaire | [Prestataires, clients et partenaires](cas-pratiques/prestataires.md) |
+| Une affaire des cours d'investigation | [Les affaires d'investigation numérique](cas-pratiques/affaires-investigation.md) |
+
 ## Les cours
 
 ### <a href="https://polytechnique.cm/"><img src="logos/enspy_logo.png" alt="Logo de l'ENSP de Yaoundé" height="48" align="absmiddle"></a> École Nationale Supérieure Polytechnique de l'Université de Yaoundé I
