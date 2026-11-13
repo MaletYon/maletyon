@@ -1,4 +1,4 @@
-# MaletYon · cours ouverts en gouvernance, audit, sécurité et investigation numérique
+# MaletYon · cours dispensés en gouvernance, audit, sécurité et investigation numérique
 
 *Malet Yon* signifie « ton enseignant » en bassa. Ce compte publie les cours universitaires de **MINKA MI NGUIDJOÏ Thierry Emmanuel**, enseignant-chercheur (LIMSI, École Nationale Supérieure Polytechnique de l'Université de Yaoundé I), auditeur des systèmes d'information et expert judiciaire.
 
