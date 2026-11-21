@@ -70,7 +70,7 @@ Formation des OPJ & APJ en investigation numérique et lutte contre la cybercrim
 |---|---|---|---|---|
 | Investigation Numérique & Lutte contre la Cybercriminalité | OPJ-APJ | Officiers et agents de police judiciaire | [cours-opj-apj](https://github.com/maletyon/cours-opj-apj) | Accès réservé |
 
-### <img src="https://raw.githubusercontent.com/MaletYon/ateliers-resuc/main/ndap-sukulu/img/armoiries_logo.jpg" alt="Armoiries de la République du Cameroun" height="48" align="absmiddle"> <img src="https://raw.githubusercontent.com/MaletYon/ateliers-resuc/main/ndap-sukulu/img/banque_mondiale_logo.png" alt="Logo de la Banque mondiale" height="48" align="absmiddle"> Coopération Cameroun - Banque mondiale, Registre social unifié du Cameroun (RESUC)
+### <img src="logos/armoiries_logo.jpg" alt="Armoiries de la République du Cameroun" height="48" align="absmiddle"> <img src="logos/banque_mondiale_logo.png" alt="Logo de la Banque mondiale" height="48" align="absmiddle"> Coopération Cameroun - Banque mondiale, Registre social unifié du Cameroun (RESUC)
 
 Ateliers de sensibilisation des utilisateurs du SIG-RESUC en cybersécurité et protection des données personnelles, décembre 2026. Ils durent deux jours. L'atelier central de Yaoundé réunit les cadres du Secrétariat technique et les administrateurs du système ; les ateliers régionaux de Mbankomo, Bafoussam et Garoua accueillent les chefs de centre social, les points focaux et les superviseurs.
 
