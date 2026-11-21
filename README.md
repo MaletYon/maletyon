@@ -1,6 +1,6 @@
 # MaletYon · cours dispensés en gouvernance, audit, sécurité et investigation numérique
 
-*Malet Yon* signifie « ton enseignant » en bassa. Ce compte publie les cours universitaires de **MINKA MI NGUIDJOÏ Thierry Emmanuel**, enseignant-chercheur (LIMSI, École Nationale Supérieure Polytechnique de l'Université de Yaoundé I), auditeur des systèmes d'information et expert judiciaire.
+*Malet Yon* signifie « ton enseignant » en bassa. Ce compte publie les cours universitaires et les formations professionnelles de **MINKA MI NGUIDJOÏ Thierry Emmanuel**, enseignant-chercheur (LIMSI, École Nationale Supérieure Polytechnique de l'Université de Yaoundé I), auditeur des systèmes d'information et expert judiciaire.
 
 Chaque cours est un traité complet, rédigé en LaTeX, avec ses présentations et ses fiches d'auto-évaluation par chapitre. Tous sont ancrés à la fois dans les normes internationales (ISO, ISACA, IIA, INTOSAI, NIST, FIRST) et dans le droit camerounais et africain, avec des cas fictifs situés au Cameroun.
 
@@ -70,6 +70,16 @@ Formation des OPJ & APJ en investigation numérique et lutte contre la cybercrim
 |---|---|---|---|---|
 | Investigation Numérique & Lutte contre la Cybercriminalité | OPJ-APJ | Officiers et agents de police judiciaire | [cours-opj-apj](https://github.com/maletyon/cours-opj-apj) | Accès réservé |
 
+### Coopération Cameroun - Banque mondiale, Registre social unifié du Cameroun (RESUC)
+
+Ateliers de sensibilisation des utilisateurs du SIG-RESUC en cybersécurité et protection des données personnelles, décembre 2026. Ils durent deux jours. L'atelier central de Yaoundé réunit les cadres du Secrétariat technique et les administrateurs du système ; les ateliers régionaux de Mbankomo, Bafoussam et Garoua accueillent les chefs de centre social, les points focaux et les superviseurs.
+
+| Formation | Sigle | Public | Dépôt | Livre |
+|---|---|---|---|---|
+| Sécurité du SIG-RESUC et protection des données des ménages | RESUC | Utilisateurs du SIG-RESUC, parcours central ou régional | [ateliers-resuc](https://github.com/maletyon/ateliers-resuc) | Accès réservé |
+
+Le contenu appartient à la Banque mondiale. Il est publié avec l'accord écrit de son chef d'équipe, sous la forme de la seule salle de classe scellée.
+
 ## Parcours conseillés
 
 - **Audit et contrôle** : [SIF](https://github.com/maletyon/cours-sif), puis [ASI](https://github.com/maletyon/cours-asi), ou leurs versions de master [ACSI](https://github.com/maletyon/cours-acsi) et [CASI](https://github.com/maletyon/cours-casi) ; gouvernance avec [GCI](https://github.com/maletyon/cours-gci), stratégie numérique et schéma directeur avec [SNSD](https://github.com/maletyon/cours-snsd) ; normes et risques avec [NRAC](https://github.com/maletyon/cours-nrac) et [ARGC](https://github.com/maletyon/cours-argc) ; protection des données et conformité à la loi n° 2024/017 avec [APDC](https://github.com/maletyon/cours-apdc).
@@ -119,7 +129,7 @@ Les livrets de correction (corrigés des exercices et des fiches) sont réservé
 
 ### Essayer avec le compte de démonstration
 
-Chaque module NDAP SUKULU est protégé par les comptes des étudiants inscrits de l'année. Pour permettre à chacun de l'essayer, un compte de démonstration unique est ouvert dans tous les cours, à l'exception de la formation OPJ-APJ, réservée à ses inscrits :
+Chaque module NDAP SUKULU est protégé par les comptes des étudiants inscrits de l'année. Pour permettre à chacun de l'essayer, un compte de démonstration unique est ouvert dans tous les cours, à l'exception des formations OPJ-APJ et RESUC, réservées à leurs inscrits :
 
 | Matricule | Mot de passe | Nom affiché |
 |---|---|---|
@@ -135,7 +145,7 @@ La méthode des cours d'audit et d'investigation s'appuie sur le programme de re
 
 ## Licence
 
-Contenu pédagogique sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) ; code sous licence MIT. Les normes sous licence (ISO, ISO/IEC, COBIT…) citées dans les cours ne sont jamais fournies. Les logos appartiennent à leurs institutions.
+Contenu pédagogique sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) ; code sous licence MIT. Les normes sous licence (ISO, ISO/IEC, COBIT…) citées dans les cours ne sont jamais fournies. Les logos appartiennent à leurs institutions. Les ateliers RESUC n'entrent pas dans cette licence, leur contenu étant la propriété de la Banque mondiale.
 
 ## Déclaration d’utilisation de l’intelligence artificielle
 
