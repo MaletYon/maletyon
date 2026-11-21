@@ -70,15 +70,13 @@ Formation des OPJ & APJ en investigation numérique et lutte contre la cybercrim
 |---|---|---|---|---|
 | Investigation Numérique & Lutte contre la Cybercriminalité | OPJ-APJ | Officiers et agents de police judiciaire | [cours-opj-apj](https://github.com/maletyon/cours-opj-apj) | Accès réservé |
 
-### <img src="logos/armoiries_logo.jpg" alt="Armoiries de la République du Cameroun" height="48" align="absmiddle"> <img src="logos/banque_mondiale_logo.png" alt="Logo de la Banque mondiale" height="48" align="absmiddle"> Coopération Cameroun - Banque mondiale, Registre social unifié du Cameroun (RESUC)
+### <img src="logos/armoiries_logo.jpg" alt="Armoiries de la République du Cameroun" height="48" align="absmiddle"> <img src="logos/banque_mondiale_logo.png" alt="Logo de la Banque mondiale" height="48" align="absmiddle"> Registre social unifié du Cameroun (RESUC)
 
-Ateliers de sensibilisation des utilisateurs du SIG-RESUC en cybersécurité et protection des données personnelles, décembre 2026. Ils durent deux jours. L'atelier central de Yaoundé réunit les cadres du Secrétariat technique et les administrateurs du système ; les ateliers régionaux de Mbankomo, Bafoussam et Garoua accueillent les chefs de centre social, les points focaux et les superviseurs.
+Ateliers de sensibilisation des utilisateurs du SIG-RESUC en cybersécurité et protection des données personnelles, deux journées par atelier.
 
 | Formation | Sigle | Public | Dépôt | Livre |
 |---|---|---|---|---|
 | Sécurité du SIG-RESUC et protection des données des ménages | RESUC | Utilisateurs du SIG-RESUC, parcours central ou régional | [ateliers-resuc](https://github.com/maletyon/ateliers-resuc) | Accès réservé |
-
-Le contenu appartient à la Banque mondiale. Il est publié avec l'accord écrit de son chef d'équipe, sous la forme de la seule salle de classe scellée.
 
 ## Parcours conseillés
 
@@ -143,9 +141,13 @@ Pour rejoindre la salle de classe d'un cours, utilisez le bouton « Demander mon
 
 La méthode des cours d'audit et d'investigation s'appuie sur le programme de recherche de l'**auditologie**, science appliquée de la réduction de l'incertitude dans l'audit des systèmes d'information : [*Vers l'auditologie*](https://hal.science/hal-05701007) (prépublication, HAL) et l'instrument de réponse OUI / NON / NEK ([hal-05701270](https://hal.science/hal-05701270)). Le cours FAV transpose cet instrument à l'enquête numérique : chaque conclusion y est cotée, et l'incertitude d'une enquête se mesure par μ, U et H.
 
+## Logos
+
+Les logos et emblèmes affichés sur cette page sont ceux de l'École Nationale Supérieure Polytechnique de Yaoundé, de la Chaire UNESCO ACCES-TIC, du Programme Supérieur de Spécialisation en Finances Publiques, de l'Université de Garoua et de l'IAI-Cameroun, ainsi que les armoiries de la République du Cameroun et le logo de la Banque mondiale. Ils sont et demeurent la propriété protégée de ces institutions. Ils figurent ici pour indiquer le cadre de chaque cours. Leur présence ne vaut ni approbation des contenus ni licence d'utilisation. Toute reproduction en dehors de cette page requiert l'autorisation de l'institution concernée. Le logo MaletYon appartient à l'auteur.
+
 ## Licence
 
-Contenu pédagogique sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) ; code sous licence MIT. Les normes sous licence (ISO, ISO/IEC, COBIT…) citées dans les cours ne sont jamais fournies. Les logos appartiennent à leurs institutions. Les ateliers RESUC n'entrent pas dans cette licence, leur contenu étant la propriété de la Banque mondiale.
+Contenu pédagogique sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) ; code sous licence MIT. Les normes sous licence (ISO, ISO/IEC, COBIT…) citées dans les cours ne sont jamais fournies. Les ateliers RESUC ne sont pas couverts par cette licence.
 
 ## Déclaration d’utilisation de l’intelligence artificielle
 
